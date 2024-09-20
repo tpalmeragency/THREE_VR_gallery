@@ -78,7 +78,7 @@
       data-scroll={true}
       data-scroll-direction={'horizontal'}
     >
-      The Palmer Agency
+      The Palmer <br/>Agency
     </p>
     <div class="landing-content-container">
       <h1 class="text">A digital showcase of creatives and talents in a way you’ve never seen before.</h1>
